@@ -2,6 +2,8 @@
 
 A totally vibecoded classic Tetris game built with C++17 and SDL2, featuring procedural audio generation for both sound effects and background music.
 
+## ![tetris](Tetris.jpg)
+
 ## Features
 
 - Classic Tetris gameplay with all 7 tetromino pieces (I, O, T, S, Z, J, L)
